@@ -8,7 +8,6 @@ Train   : 488 images
 Val     : 55 images
 Classes : 1
 Size    : 1280 × 720
-Sensor  :
 ```
 
 ## Data preparation
