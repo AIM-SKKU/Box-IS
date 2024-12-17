@@ -12,7 +12,7 @@ Size    : 1280 × 720
 
 ## Data preparation
 
-Box-IS : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFybFFwOWQ2a1VaQkxjbEhjP2U9Tkp4ajFv/root/content
+Box-IS : https://huggingface.co/datasets/kasurashan/RGBD-Instance-Segmentation
 
 ```
 Box-IS/
